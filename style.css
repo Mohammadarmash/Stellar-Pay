@@ -63,6 +63,7 @@ background: -webkit-linear-gradient(#c27460, #cc9672);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
   }
-  p{
+ .policy{
     color: aliceblue;
+    text-decoration: none;
   }
